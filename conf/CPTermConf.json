@@ -1,0 +1,5 @@
+{"numChars":8, "rows":8, "cols":8, "hackLen":6, "buffLen":12, "timeOut":1200, 
+"textMenu":{"Взорвать всех к хуям":{"type":"command", "name":"python3 openbox.py"}},
+"headRead":"ARASAKA CORP 2077 READ MENU\nW-S TO SCROLL PAGE\nESCAPE (R) TO MENU",
+"headHack":"ARASAKA CORP 2077\nRT AROS TERMINAL\nDEBUG MODE ON\nHEX MATRIX LOADED",
+"headMenu":"ARASAKA CORP 2077 TERMINAL MENU\nW-S TO SELECT ITEM\nENTER TO APPLY"}

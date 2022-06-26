@@ -1,0 +1,9 @@
+{"confPath":"conf/", "confName":"CPTermConf.json",
+    "forceClose":false, "isDBUpdating":false,
+    "MAIN_COLOR":{"pair":1, "fg":120, "bg":0},
+    "HL_COLOR":{"pair":2, "fg":84, "bg":42},
+    "HL_1_COLOR":{"pair":3, "fg":42, "bg":0},
+    "buffString":"", "codeString":"", "timeStr":"",
+    "startTime":0, "timeFlag":0,
+    "buffList":[], "codeList":[]
+}
